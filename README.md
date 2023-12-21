@@ -48,7 +48,7 @@ To launch to notebook, open terminal and run the command:
 
 <b>Analysis</b>: Incorporates visualizations crafted utilizing Seaborn.
 
-<b>Results</b>: The analysis and profiling of data were systematically conducted to extract pivotal demographic insights concerning the Instacart consumer base. These insights served as the cornerstone for formulating strategic business recommendations. A detailed exposition of these recommendations can be found in the project summary.
+<b>Results</b>: The analysis and profiling of data were systematically conducted to extract pivotal demographic insights concerning the Instacart consumer base. These insights served as the cornerstone for formulating strategic business recommendations. 
 
 <b>Limitations</b>:The project's nature presents challenges in grasping the context around the dataset and its business insights. Additionally, limitations in available computing power posed difficulties in conducting seamless visual analysis on the fully completed dataset. As a workaround, data visuals were crafted using subsets of data, as documented in the available Python scripts
 
