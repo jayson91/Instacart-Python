@@ -1,4 +1,4 @@
-Career Foundry project illistrating proficiency in Python utilizing diverse libraries for advanced data analysis and visualization.
+Career Foundry project illustrating proficiency in Python utilizing diverse libraries for advanced data analysis and visualization.
 Data sourced from Instacart, encompassing CSV files for Orders, Products, and Departments, forms the foundation of this project. 
 
 ---
